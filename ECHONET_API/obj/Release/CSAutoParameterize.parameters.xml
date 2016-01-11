@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection データベースに接続するためにアプリケーションによって web.config で使用される接続文字列。" defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-ECHONET_API-20160110215552;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-ECHONET_API-20160110215552.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\ubi-cicp\\documents\\visual\ studio\ 2013\\Projects\\ECHONET_API\\ECHONET_API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
